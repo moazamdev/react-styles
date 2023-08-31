@@ -15,31 +15,31 @@ export default function App() {
 
 			<NoStyles />
 
-			<hr />
+			<hr className="border border-black my-6" />
 
 			<CssInCssCss />
 
-			<hr />
+			<hr className="border border-black my-6" />
 
 			<CssInCssScss />
 
-			<hr />
+			<hr className="border border-black my-6" />
 
 			<CssInCssCssModule />
 
-			<hr />
+			<hr className="border border-black my-6" />
 
 			<CssInCssCssModuleWithScss />
 
-			<hr />
+			<hr className="border border-black my-6" />
 
 			<CssInJsStyledComponents />
 
-			<hr />
+			<hr className="border border-black my-6" />
 
 			<InlineStyles />
 
-			<hr />
+			<hr className="border border-black my-6" />
 
 			<UtilityFirstClass />
 		</div>
