@@ -25,7 +25,7 @@ function App() {
 
 	return (
 		<div>
-			<h3>insline css</h3>
+			<h3>inline css</h3>
 
 			<Basket items={fruits} onClick={handleClick} />
 		</div>
